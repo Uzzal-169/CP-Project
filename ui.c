@@ -5,7 +5,6 @@
 void show_main_menu(void) {
     printf("\n=== Employee Management System ===\n");
     printf("1. Add Employee\n");
-    printf("2. Display All Employees\n");
     printf("3. Search Employee by ID\n");
     printf("4. Search Employee by Name\n");
     printf("5. Update Employee\n");
